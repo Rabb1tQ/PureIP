@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\PureIP\PureIP\bin\Debug\PureIP.exe
+c:\users\dell\documents\visual studio 2015\Projects\PureIP\PureIP\bin\Debug\PureIP.pdb
+c:\users\dell\documents\visual studio 2015\Projects\PureIP\PureIP\obj\Debug\PureIP.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\PureIP\PureIP\obj\Debug\PureIP.exe
+c:\users\dell\documents\visual studio 2015\Projects\PureIP\PureIP\obj\Debug\PureIP.pdb
